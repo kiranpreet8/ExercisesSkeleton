@@ -1,1 +1,1 @@
-# ExercisesSketelon
+# ExercisesSkeleton
